@@ -1,32 +1,48 @@
-img{
-  width:250px;
- heigth:350px
+.intro {
+     color:red;
+   background-color:green;
+   font-family:courier;
+ text-align:left;
+     width:50%
+   
+   
 }
-.main-headline{
-  color:blue;
-  text-align: center;
+   
+   div {
+    
+ color:blue;
+ border:10px solid darkgray;
+
+}
+
+   
+   .header {
+     color:purple;
+     font-size: 40px;
+     font-family:verdana;
+     border:15px dashed yellow; 
+}
+
+   
+   .content{
+     text-align:center;
+     background-color: white;
+     width:50%
+     height:500px;
+     font-size:12px;  
+     border:20px solid black;
+}
+
+   body {
+     background-color:gray;
+     width:90%;
+     500px;
+     font-size:12px;
+}
+
+   .image {
+    width:100%
+    dorder:25px dashed brown;
+}  
   
-}
-
-
-h2 {
-  color:olive
-  text-align:center;
-}   
- 
-.place-description{
-  font="verdana";
-  color:olive;
-}
-
-.person-description{
-  color:purple;
-}
-
-.top-favorite{
-  color:red;
-}
-
-.emphasis{
-  <
-}
+     
