@@ -1,0 +1,32 @@
+img{
+  width:250px;
+ heigth:350px
+}
+.main-headline{
+  color:blue;
+  text-align: center;
+  
+}
+
+
+h2 {
+  color:olive
+  text-align:center;
+}   
+ 
+.place-description{
+  font="verdana";
+  color:olive;
+}
+
+.person-description{
+  color:purple;
+}
+
+.top-favorite{
+  color:red;
+}
+
+.emphasis{
+  <
+}
