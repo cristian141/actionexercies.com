@@ -1,2 +1,2 @@
-# actionexercies.com
+# actionexercises.com
 wed disign
